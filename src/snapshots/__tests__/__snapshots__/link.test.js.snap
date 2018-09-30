@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`changes class when hovered 1`] = `
+<a
+  className="normal"
+  href="google.com"
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  google
+</a>
+`;
+
+exports[`changes class when hovered 2`] = `
+<a
+  className="hovered"
+  href="google.com"
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  google
+</a>
+`;
+
+exports[`changes class when hovered 3`] = `
+<a
+  className="normal"
+  href="google.com"
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  google
+</a>
+`;
+
+exports[`renders correctly 1`] = `
+<a
+  className="normal"
+  href="vk.com"
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  vk
+</a>
+`;

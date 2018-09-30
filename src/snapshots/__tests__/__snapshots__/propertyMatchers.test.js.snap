@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`will fail every time 1`] = `
+Object {
+  "age": 2,
+  "id": 3,
+  "name": "Mike Vazoffski",
+}
+`;
+
+exports[`wont fail 1`] = `
+Object {
+  "age": Any<Number>,
+  "id": Any<Number>,
+  "name": "Mike Vazoffski",
+}
+`;
